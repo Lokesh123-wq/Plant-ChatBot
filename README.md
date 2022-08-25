@@ -1,7 +1,7 @@
 <h1>Team mates</h1>
 
 <u1>
-  <li>Prasad(19PA1A05I6)</li>
+  <li>Prasad Veeravalli(19PA1A05I6)</li>
   <li>Polisetti Venkata Sai Ram(19PA1A05E3)</li>
 </ul>
 
