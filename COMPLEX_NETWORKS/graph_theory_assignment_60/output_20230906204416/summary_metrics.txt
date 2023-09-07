@@ -1,0 +1,12 @@
+size: {'average': 738.0, 'std_deviation': 678.0}
+average_degree: 23.6
+top_5_highest_degrees: {'average': 30.8, 'std_deviation': 1.1661903789690602}
+top_5_lowest_degrees: {'average': 17.6, 'std_deviation': 1.4966629547095767}
+in_degrees: {'average': 22.2, 'std_deviation': 3.57211421989835}
+out_degrees: {'average': 24.2, 'std_deviation': 6.734983296193094}
+degree_counts: {30: 4, 22: 7, 23: 8, 25: 7, 18: 1, 21: 6, 24: 4, 19: 3, 26: 5, 20: 6, 27: 2, 29: 2, 33: 1, 31: 1, 17: 1, 28: 1, 15: 1}
+in_degree_counts: {23: 1, 20: 2, 22: 2, 19: 1, 25: 1, 29: 1, 16: 1, 26: 1}
+out_degree_counts: {30: 3, 31: 1, 33: 1, 15: 1, 17: 1, 18: 1, 19: 2}
+graph_is: The graph is cyclic.
+sum_of_in_degrees: 222
+sum_of_out_degrees: 242
